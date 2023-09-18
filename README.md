@@ -5,7 +5,7 @@ Sequalize + Express + Node
 2- crear script
 3- instalar dependencias
     a- `npm i nodemon -D`
-    b- `npm install --save sequelize pg pg-hstore express`
+    b- `npm install --save sequelize pg pg-hstore express cors`
 4-  crear un idex.js para conectar aal iniciar scripts de npm "start, dev"  
 5-  CREAR ESTRUCTURA DE CARPETAS DEL PROYECTO   
 6- crear app.js y db.js dentro de carpetas src
